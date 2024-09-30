@@ -1,1 +1,1 @@
-# Other_Computer_Science_Notes
+# Computer_Science_Notes
